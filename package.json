@@ -1,0 +1,23 @@
+{
+  "name": "pos",
+  "version": "1.0.0",
+  "description": "html5, css 3.0 grid, nodejs",
+  "main": "nodemon ./server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML5",
+    "CSS",
+    "3.0",
+    "4.0",
+    "nodejs"
+  ],
+  "author": "Muhammad Anees",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^5.7.1",
+    "to": "^0.2.9",
+    "update": "^0.7.4"
+  }
+}
